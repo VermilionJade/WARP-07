@@ -4,7 +4,8 @@ on:                            # obiekt zagnieżdżony
   workflow_dispatch:
 env:
   DOTNET_VERSION: 10.0.x
-env PROJECT_PATH: "Warp07.demo"
+env:
+  PROJECT_PATH: "Warp07.demo"
 
 jobs:
   build:
