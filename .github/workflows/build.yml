@@ -33,4 +33,4 @@ jobs:
 
       - name: Run project
         shell: bash
-        run: dotnet run --project "$PROJECT_PATH" --configuration Release --no-build
+        run: dotnet run --project "Warp07.demo" --configuration Release --no-build
