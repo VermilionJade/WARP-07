@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37410\\WARP\\WARP-07\\Warp07.demo\\Warp07.demo.csproj": {}
+    "C:\\Users\\s37410\\warp\\WARP-07\\Warp07.demo\\Warp07.demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37410\\WARP\\WARP-07\\Warp07.demo\\Warp07.demo.csproj": {
+    "C:\\Users\\s37410\\warp\\WARP-07\\Warp07.demo\\Warp07.demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37410\\WARP\\WARP-07\\Warp07.demo\\Warp07.demo.csproj",
+        "projectUniqueName": "C:\\Users\\s37410\\warp\\WARP-07\\Warp07.demo\\Warp07.demo.csproj",
         "projectName": "Warp07.demo",
-        "projectPath": "C:\\Users\\s37410\\WARP\\WARP-07\\Warp07.demo\\Warp07.demo.csproj",
+        "projectPath": "C:\\Users\\s37410\\warp\\WARP-07\\Warp07.demo\\Warp07.demo.csproj",
         "packagesPath": "C:\\Users\\s37410\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37410\\WARP\\WARP-07\\Warp07.demo\\obj\\",
+        "outputPath": "C:\\Users\\s37410\\warp\\WARP-07\\Warp07.demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37410\\AppData\\Roaming\\NuGet\\NuGet.Config"
