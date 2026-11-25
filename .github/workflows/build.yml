@@ -10,7 +10,7 @@ on:                            # obiekt zagnieżdżony
       - main
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: "Warp07.demo/Warp07.demo.cproj"
+  PROJECT_PATH: "Warp07.demo.cproj"
 
 jobs:
   build:
