@@ -10,8 +10,8 @@ on:                            # obiekt zagnieżdżony
       - main
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: "Warp07.demo"
-
+#  PROJECT_PATH: "Warp07.demo"
+  PROJECT_PATH: ./src/ProjectThatDoesNotExist/Project.csproj
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,7 +25,7 @@ jobs:
         
       - name: Show directory
         run: pwd
-        
+
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
